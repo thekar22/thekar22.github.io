@@ -1,0 +1,39 @@
+/* line 5, /Users/kylerego1/Documents/Development/Baniqued/baniqued_proj/assets/scss/main.scss */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  color: blue; }
+
+/* line 11, /Users/kylerego1/Documents/Development/Baniqued/baniqued_proj/assets/scss/main.scss */
+.welcome-container {
+  margin: 50px 0 0 0;
+  text-align: center;
+  font-size: 2em;
+  color: blue; }
+  /* line 17, /Users/kylerego1/Documents/Development/Baniqued/baniqued_proj/assets/scss/main.scss */
+  .welcome-container p {
+    margin: 5px; }
+  /* line 21, /Users/kylerego1/Documents/Development/Baniqued/baniqued_proj/assets/scss/main.scss */
+  .welcome-container div {
+    position: relative;
+    text-align: center; }
+
+/* line 27, /Users/kylerego1/Documents/Development/Baniqued/baniqued_proj/assets/scss/main.scss */
+img {
+  margin: 0 auto; }
+
+/* line 31, /Users/kylerego1/Documents/Development/Baniqued/baniqued_proj/assets/scss/main.scss */
+.slick-slide {
+  width: 300px; }
+
+/* line 35, /Users/kylerego1/Documents/Development/Baniqued/baniqued_proj/assets/scss/main.scss */
+.multiple-slide {
+  width: 80%;
+  margin: 0 auto; }
+
+/* line 40, /Users/kylerego1/Documents/Development/Baniqued/baniqued_proj/assets/scss/main.scss */
+.img-container {
+  width: 800px;
+  height: auto; }
+
+/*# sourceMappingURL=../../scss */
