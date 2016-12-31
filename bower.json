@@ -1,0 +1,21 @@
+{
+  "name": "baniqued_dep",
+  "description": "Please refer to the README file for the test instructions",
+  "main": "index.html",
+  "authors": [
+    "Algolia"
+  ],
+  "license": "Algolia",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slick-carousel": "^1.6.0"
+  }
+}

@@ -1,0 +1,43 @@
+// html {
+//   background: green;
+// }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  color: blue;
+}
+
+.welcome-container {
+  margin: 50px 0 0 0;
+  text-align: center;
+  font-size: 2em;
+  color: blue;
+
+  p {
+    margin: 5px;
+  }
+
+  div {
+    position: relative;
+    text-align: center;
+  }
+}
+
+img {
+    margin: 0 auto;
+}
+
+.slick-slide{
+  width: 300px;
+}
+
+.multiple-slide {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.img-container {
+  width: 800px;
+  height: auto;
+}
